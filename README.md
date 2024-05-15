@@ -204,3 +204,12 @@ Scope is a set of details about a single incoming connection - such as the path 
 was made from, or the originating IP address of a Websocket.
 Scope persists throughout the connection.
 
+
+### Automated Testing
+
+Using selenium to control a chrome web browseer.
+```sh
+install the chrome web browser
+install chromedriver
+pip install selenium
+```
