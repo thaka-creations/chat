@@ -5,3 +5,4 @@ env/
 *.log
 *.tmp
 *.pyc
+db.sqlite3
